@@ -1,0 +1,15 @@
+.page-header {
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #000000;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+.read-link {
+  float: right;
+  color: blue;
+}
